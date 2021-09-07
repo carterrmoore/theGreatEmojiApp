@@ -26,6 +26,9 @@ body {
     background-color: #E23349;
 }
 
+#emoji-input {
+    width: 75px;
+
 h1 {
     letter-spacing: 2px;
     text-align: center;
